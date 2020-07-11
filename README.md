@@ -5,4 +5,5 @@ This is the repository for the Kaggle project - [Cornell Birdcall Identification
 **Usage:** 
 - place your */birdsong-recognition* (downloaded & unzipped from Kaggle) since it will be gitignored by default.
   
-- It should look like this:![avantar](img/structure/repo_structure.png)
+- It should look like this:
+  ![avantar](img/structure/repo_structure.png)
