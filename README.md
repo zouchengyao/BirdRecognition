@@ -7,3 +7,6 @@ This is the repository for the Kaggle project - [Cornell Birdcall Identification
   
 - It should look like this:
   ![avantar](img/structure/repo_structure.png)
+
+#### Flowchart
+![flowchart](img/flowchart.svg)
