@@ -15,6 +15,7 @@ This is the repository for the Kaggle project - [Cornell Birdcall Identification
 #### Methods
 
 - **Method 1: Machine Learning (sklearn-based)**
-  - Source File:*baseline.ipynb*
+  - Source File:  *baseline.ipynb*
     - This method uses the traditional statistical ways to analyse the relations and do predictions.
+  - It could take +1 hr for the baseline model to be processed.
   
