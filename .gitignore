@@ -131,3 +131,4 @@ dmypy.json
 /src/birdsong-recognition
 src/.ipynb_checkpoints
 /input
+/.vscode
